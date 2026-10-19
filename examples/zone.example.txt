@@ -1,0 +1,6 @@
+; SYNTHETIC EXAMPLE, NOT RECOVERED INFRASTRUCTURE
+$ORIGIN example.test.
+@    IN SOA ns1.example.test. hostmaster.example.test. (2026101801 3600 900 604800 300)
+@    IN NS ns1.example.test.
+ns1  IN A 192.0.2.53
+www  IN A 192.0.2.80

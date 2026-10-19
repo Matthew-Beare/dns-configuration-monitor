@@ -1,0 +1,6 @@
+[
+  {"devices":[{"name":"DNS1","address":"192.0.2.53","reachable":true,"expected_dns":["192.0.2.53","192.0.2.54"],"observed_dns":["192.0.2.53","192.0.2.54"]}]},
+  {"devices":[{"name":"DNS1","address":"192.0.2.53","reachable":true,"expected_dns":["192.0.2.53","192.0.2.54"],"observed_dns":["203.0.113.5"]}]},
+  {"devices":[{"name":"DNS1","address":"192.0.2.53","reachable":null,"expected_dns":["192.0.2.53","192.0.2.54"],"observed_dns":null}]},
+  {"devices":[{"name":"DNS1","address":"192.0.2.53","reachable":true,"expected_dns":["192.0.2.53","192.0.2.54"],"observed_dns":["192.0.2.54","192.0.2.53"]}]}
+]
